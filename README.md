@@ -10,4 +10,7 @@
 注意不要将鼠标活动区正好落在窗口上，否则会被窗口捕获，变得无法和其他窗口交互。<br>
 
 ======<br>
-你可以换上任何你喜欢的图片.
+你可以换上任何你喜欢的图片. <br>
+尽管现在我还是忍不住按ctrl. <br>
+
+[!fig](https://github.com/MrXnneHang/Custom_Mouse_Image/blob/master/fig/fig1.png)

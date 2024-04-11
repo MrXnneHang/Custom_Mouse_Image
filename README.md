@@ -13,4 +13,4 @@
 你可以换上任何你喜欢的图片. <br>
 尽管现在我还是忍不住按ctrl. <br>
 
-[!fig](https://github.com/MrXnneHang/Custom_Mouse_Image/blob/master/fig/fig1.png)
+<img_src="https://github.com/MrXnneHang/Custom_Mouse_Image/blob/master/fig/fig1.png"/>
